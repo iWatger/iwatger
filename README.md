@@ -23,4 +23,4 @@ Musicle was a game I helped make with a handful of members of the iOS Club. It w
 ## Interests
 I find design really interesting. I am currently pursuing a minor in Industrial Design. I love getting to read about the design process. Some books I've found really insightful have been *After Steve* and *The Collected Angers*.
 
-<img src="https://wakatime.com/share/@4bc59767-0217-462d-9cbf-ffaa25bc5fad/3d4fbc9b-a3c5-45de-89a1-d272202823d0.svg" />
+<img src="https://wakatime.com/share/@4bc59767-0217-462d-9cbf-ffaa25bc5fad/19362730-a6d6-457b-b588-b8fe2b4b9188.svg" />

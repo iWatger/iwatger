@@ -15,7 +15,8 @@ I am a senior developer at the Georgia Tech iOS Club. Last year, I worked with a
 ## Previous Projects
 
 ### Musicle
-Musicle was a game I helped make with a handful of members of the iOS Club. It was a game similar to Wordle, but the objective of the game was to recognize the song being played be the shortest amount of time. This was my first big introduction to developing for Apple platforms, and I thought it was really cool! I learned a lot about Swift and UIKit, and it was a total blast. 
+
+Musicle was a game I helped make with a handful of members of the iOS Club. It was a game similar to Wordle, but the objective of the game was to recognize the song being played be the shortest amount of time. This was my first big introduction to developing for Apple platforms, and I thought it was really cool! I learned a lot about Swift and UIKit, and it was a total blast. Musicle won first place in the [Spring 2022 Georgia Tech iOS Club Demo Day](https://devpost.com/software/musicle)
 
 
 ![Musicle Images Pane](Musicle_Asset_new.png)

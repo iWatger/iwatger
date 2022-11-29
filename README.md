@@ -1,6 +1,6 @@
 # Hi, my name is Ethan Fox
 
-I am an undergraduate student at the College of Electrical and Computer Engineering at Georgia Tech, and I am from rural North Georgia. 
+I am an undergraduate student at the College of Electrical and Computer Engineering at Georgia Tech. I find making software for Apple platforms super interesting and fun :)
 
 ## Current Areas of Focus 
 Just a list of stuff that have been in my life recently 
@@ -23,5 +23,3 @@ Musicle was a game I helped make with a handful of members of the iOS Club. It w
 
 ## Interests
 I find design really interesting. I am currently pursuing a minor in Industrial Design. I love getting to read about the design process. Some books I've found really insightful have been *After Steve* and *The Collected Angers*.
-
-<img src="https://wakatime.com/share/@4bc59767-0217-462d-9cbf-ffaa25bc5fad/19362730-a6d6-457b-b588-b8fe2b4b9188.svg" />
